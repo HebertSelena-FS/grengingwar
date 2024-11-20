@@ -1,0 +1,8 @@
+.tabs-main-container{
+  display: flex;
+  flex-direction: row;
+  color: pink;
+  align-items: center;
+  justify-content: center;
+  margin-top: 7px;
+}

@@ -1,0 +1,20 @@
+.nav-button {
+  background-image: url("../../image/gw-tab1.png");
+  color: red;
+  /* font-weight: bold; */
+  display:flex;
+  flex-direction:column;
+  justify-content: space-evenly;
+  background-color:black;
+  border-radius: 0% 0% 50% 50%;
+  box-shadow:0 1px 4px 0 rgb(255, 2, 44), 0 1px 4px 0 rgb(255, 2, 44);
+  padding:10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom:12px;
+  font-size: 16px;
+  align-items: center;
+}

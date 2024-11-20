@@ -1,0 +1,48 @@
+.container {
+  display: flex;
+  flex-direction:column;
+  background-color: black;
+  height: 100vh;
+  color: aqua;
+}
+.gameplay {
+  display: flex;
+  flex-direction: row;
+  justify-content:center;
+  background-color: black;
+  margin-top: 5px;
+  height:600px;
+}
+.row {
+  display: flex;
+  flex-direction:row;  
+}
+.map {
+  box-shadow: 1px 3px 3px 5px rgb(255,192,203), 1px 3px 3px 5px rgba(0, 0, 0, 0.19);
+  height: 280px;
+  margin-top:20px;
+  margin-right: 20px;
+}
+.resources {
+  margin-top: 12px;
+  margin-right: 20px;
+  width: 110px;
+}
+.gamecol {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+.gamerow {
+  display: flex;
+  flex-direction:row;
+}
+.resourcesheld {
+  display: 'flex';
+  flex-direction: 'ro;w';
+  justify-content:'center';
+}
+.sectioncontent {
+
+ color: 'aqua';
+}

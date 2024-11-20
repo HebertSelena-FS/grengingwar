@@ -1,0 +1,38 @@
+
+.npc-btn {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  box-shadow: 0 4px 8px 0 rgb(255, 2, 44), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: aqua;
+  padding: 10px;
+  margin-top: 5px;
+  margin-bottom: 12px;
+  font-size: 12px;
+  width: 100px;
+  height: 90px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.health {
+  display: flex;
+  background-color: red;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  top: 8px;
+}
+
+.openButton {
+  height: 20px;
+}
+
+.npc-reload{
+margin-top: 10px;
+}
+
+.npc-workshop-btn{
+  margin-top: 20px;
+  background-color: brown;
+}

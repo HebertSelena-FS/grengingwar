@@ -1,0 +1,49 @@
+
+.level-inventory {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  /* width: 25%; */
+  height: 100px;
+  color: pink;
+  
+}
+.level-title {
+  /* box-shadow:0 4px 8px 0 rgb(255,192,203), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+  
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.level-items {
+  display: flex;
+  flex-direction:row;
+  width: 125px;
+  height: 75px;
+  justify-content: center;
+  margin-bottom: 5px;
+  /* box-shadow:0 1px 8px 0 rgb(255,192,203), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+.level-column{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100px;
+  /* justify-content: center; */
+  margin-top: 15px;
+  margin-bottom: 5px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.level-scroll {
+  height: 100px;
+  width:85%;
+  overflow: scroll;
+  margin-left: 5px;
+  display: flex;
+  flex-direction: row;
+  overflow-x: hidden; /* Hide horizontal scroll bar */
+  overflow-y: scroll; /* Show vertical scroll bar */
+}

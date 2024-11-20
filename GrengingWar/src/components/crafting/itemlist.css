@@ -1,0 +1,35 @@
+.color {
+  background-color: darkgray;
+  color: black;
+  max-width: 200px;
+  height: 500px;
+  margin: 5px;
+}
+.Link {
+  font-size: 18px;
+  font-weight: bold;
+  margin: 10px;
+  padding: 3%;
+  text-decoration: none;
+  color: rgb(255,192,203);
+}
+.label {
+  display:flex;
+  flex-direction:column;
+  justify-content:space-evenly;
+  background-color:black;
+  box-shadow:1px 1px 10px 5px rgb(255,192,203), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color:aqua;
+  padding:10px;
+  margin-top:5px;
+  margin-bottom: 12px;
+  margin-right: 5px;
+  font-size: 14px;
+  align-items: center;
+  width: 200px;
+}
+.item {
+  display: flex;
+  flex-direction: column;
+
+}

@@ -1,0 +1,56 @@
+.inventory {
+  background-image: url("../../image/gw-background1.png");
+  background-repeat: no-repeat; 
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  width: 175px;
+  height: 600px;
+  color: red;
+  box-shadow:0 4px 8px 0 rgb(255,2,44), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-right: 5px;
+}
+.inventory-title {
+  border-radius: 0 0 50% 50% ;
+  box-shadow:0 1px 4px 0 rgb(255, 2, 44), 0 1px 4px 0 rgb(255, 2, 44);
+  background-color: black;
+  background-image: url("../../image/gw-tab1.png");
+  padding: 10px;
+  width: 150px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  margin-bottom: 20px;
+
+}
+
+.inventory-items {
+  display: flex;
+  flex-direction:column;
+}
+.row {
+  display:flex;
+  flex-direction: column;
+}
+/* .scroll {
+  height: 600px;
+  width:190px;
+  overflow:scroll;
+} */
+
+.inventory-btn {
+  display: flex;
+  flex-direction: row;
+  width: 150px;
+  background-color: black;
+}
+
+.inventory-name {
+  color:red 
+}
+
+.inventory-count {
+  color: green 
+}

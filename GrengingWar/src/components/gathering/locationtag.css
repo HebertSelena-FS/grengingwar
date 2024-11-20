@@ -1,0 +1,14 @@
+.locationtag {
+  display:flex;
+  flex-direction:column;
+  background-color:black;
+  box-shadow:0 4px 8px 0 rgb(255, 2, 44), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color:aqua;
+  padding:10px;
+  margin-top:5px;
+  margin-bottom: 12px;
+  font-size: 14px;
+  width: 100px;
+  height:55px;
+  
+}

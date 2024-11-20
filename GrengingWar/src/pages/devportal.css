@@ -1,0 +1,15 @@
+.portal-resources-add-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: red;
+}
+
+/* .portal-resources-add-row{
+margin:0;
+} */
+
+.portal-resources-add-label{
+  margin-right: 10px;
+}

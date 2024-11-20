@@ -1,0 +1,21 @@
+
+.header {
+  background-image: url("../../image/gw-logo2.png");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  font-size: 1000px;
+  width: 100%;
+                                                
+}
+
+.h1{
+  height: 100px;
+  text-align: center;
+  color: red;
+  /* padding: 25px; */
+  font-size: 5rem;
+  font-weight: bold;
+  box-shadow:0 4px 8px 0 rgb(255, 2, 44), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  color: red;
+  width: 100%;
+}
