@@ -101,4 +101,6 @@ Give credit here.
 
 ## Contact
 Created by Selena Hebert - feel free to contact me at wolfselen0962@gmail.com
+> **Discord Server:** https://discord.gg/M5fmC46Kyj <br>
+> Leave a message saying you found your way from the repo if you do
 
