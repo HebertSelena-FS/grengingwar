@@ -11,8 +11,9 @@
 [Main project ReadMe.md](GrengingWar/README.md)
 
 # Project Name
-> Outline a brief description of your project.
+> **Name:** Grenging War <br>
 > Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> <br> No current live demo available.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -67,7 +68,7 @@ This will be a client that will be hosted. (undefined on location of hosting)
 
 
 ## Project Status
-Project is: _in progress_ _beta development_
+**Project is:** _in progress_ <br> _PRE-ALPHA Development_
 
 
 ## Room for Improvement
@@ -90,7 +91,7 @@ Future freatures:
 - Chat
 
 
-## how to start/restart the project
+## How to Start/Restart the Project
 
 
 ## Acknowledgements
