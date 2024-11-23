@@ -3,6 +3,8 @@
 # Grenging War
 ### Selena Hebert 
 
+### dev branch
+
 
 ![Degree Program](https://img.shields.io/badge/degree-web%20development-blue.svg)
 
@@ -95,7 +97,7 @@ Future freatures:
 
 
 ## Acknowledgements
-Give credit here.
+credits
 - This project was inspired by The Infinite black made by:spellbook and RuneScape made by jagex
 
 
